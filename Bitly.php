@@ -1,7 +1,5 @@
 <?php
 
-namespace modelo\utilitarios;
-
 class Bitly {
 
 	private $cookies = [];
